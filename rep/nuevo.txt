@@ -1,7 +1,7 @@
 ed111111112222it uno
 ****************************
 
-pasarNuevosCambios estos nuevos cambios
+pasarOtroCambios estos nuevos cambios
 
 ************
-editeDos222222 nuevos cam
+editeUno222222 nuevos cam
