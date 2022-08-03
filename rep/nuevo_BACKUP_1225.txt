@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+ed2222222it uno
+=======
 ed11111111it uno
+>>>>>>> uno
 ****************************
 
 pasar estos nuevos cambios
